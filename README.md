@@ -12,3 +12,7 @@ proyek ini saya kerjakan menggunakan repository streamlit
  - Data : data .csv yang digunakan untuk analisis
  - Dashboard : membuat hasil analisis data dan menampilkan data di localhost
  - Mutasar_bike_sharing.ipynb : saya gunakan untuk analisis data 
+
+# instalasi : 
+- pip install streamlit
+- dan lain lain

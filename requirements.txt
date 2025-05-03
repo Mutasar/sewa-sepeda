@@ -1,4 +1,4 @@
-# berikut library yang saya gunakan :
+berikut library yang saya gunakan :
 matplotlib
 pandas
 seaborn

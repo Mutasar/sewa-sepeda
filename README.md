@@ -14,20 +14,20 @@ proyek ini saya kerjakan menggunakan repository streamlit
  - Mutasar_bike_sharing.ipynb : saya gunakan untuk analisis data
    
 # Setup Environment - Anaconda
-conda create --name main-ds python=3.9
-conda activate main-ds
-pip install -r requirements.txt
+- conda create --name main-ds python=3.9
+- conda activate main-ds
+- pip install -r requirements.txt
 
 # Setup Environment - Shell/Terminal
-mkdir Sewa_Sepeda
-cd Sewa_Sepeda
-pipenv install
-pipenv shell
-pip install -r requirements.txt
-pip install streamlit
-dan lain lain
+- mkdir Sewa_Sepeda
+- cd Sewa_Sepeda
+- pipenv install
+- pipenv shell
+- pip install -r requirements.txt
+- pip install streamlit
+- dan lain lain
 
 # Run steamlit app
-streamlit run dashboard.py
+- streamlit run dashboard.py
 
 

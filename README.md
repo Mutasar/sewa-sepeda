@@ -28,6 +28,10 @@ proyek ini saya kerjakan menggunakan repository streamlit
 - dan lain lain
 
 # Run steamlit app
-- streamlit run dashboard.py
+- buka anaconda
+- jalankan environment
+- buka cmd
+- ketik streamlit run dashboard.py
+- dashboard.py adalah file dashboard.
 
 

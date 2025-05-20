@@ -1,7 +1,5 @@
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-from statsmodels.tsa.seasonal import seasonal_decompose
-from google.colab import files
-streamlit
+matplotlib==3.8.0
+numpy==1.25.2
+pandas==2.1.4
+seaborn==0.13.0
+streamlit==1.30.0

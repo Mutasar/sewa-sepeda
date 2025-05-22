@@ -1,4 +1,26 @@
+# library yang saya gunakan di Notebook:
+
 streamlit>=1.20.0
 pandas>=1.3.0
 matplotlib>=3.4.0
 seaborn>=0.11.0
+--------->
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+from statsmodels.tsa.seasonal import seasonal_decompose
+from google.colab import files
+_______________________________
+# library yang saya gunakan di Dashboard:
+
+streamlit>=1.20.0
+pandas>=1.3.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
+------------>
+import streamlit as st
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+from statsmodels.tsa.seasonal import seasonal_decompose

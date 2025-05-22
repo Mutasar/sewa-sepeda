@@ -11,16 +11,16 @@ proyek ini saya kerjakan menggunakan repository streamlit
  # Struktur Direktori:
  - Data : data .csv yang digunakan untuk analisis
  - Dashboard : membuat hasil analisis data dan menampilkan data di localhost
- - Mutasar_bike_sharing.ipynb : saya gunakan untuk analisis data
+ - Proyek_Analisis_Data.ipynb : saya gunakan untuk analisis data
    
 # Setup Environment - Anaconda
-- conda create --name main-ds python=3.9
-- conda activate main-ds
+- conda create --name ds_env python=3.9
+- conda activate ds_env
 - pip install -r requirements.txt
 
 # Setup Environment - Shell/Terminal
-- mkdir Sewa_Sepeda
-- cd Sewa_Sepeda
+- mkdir Sewa-Sepeda
+- cd Sewa-Sepeda
 - pipenv install
 - pipenv shell
 - pip install -r requirements.txt

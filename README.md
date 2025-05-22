@@ -1,5 +1,5 @@
 # Submission : Belajar Analisis Data
-![Screenshot (83)](https://github.com/user-attachments/assets/00143c40-2269-44f4-a1a3-6f873ae15d01)
+![WhatsApp Image 2025-05-22 at 13 15 10](https://github.com/user-attachments/assets/cb12896c-7bba-46a5-b774-e063c196b015)
 
 # Proyek analisis data :
 proyek ini saya kerjakan menggunakan repository streamlit

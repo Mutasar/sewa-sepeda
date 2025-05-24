@@ -1,5 +1,3 @@
-library yang sudah terinstall :
--------------->
 altair                    5.5.0
 anyio                     4.9.0
 appnope                   0.1.4
@@ -151,32 +149,3 @@ wheel                     0.45.1
 widgetsnbextension        4.0.13
 yarg                      0.1.9
 zipp                      3.21.0
-
-# library yang saya gunakan di Notebook:
----------->
-matplotlib==3.9.4
-numpy==2.0.1
-pandas==2.2.3
-seaborn==0.13.2
-
---------->
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-from statsmodels.tsa.seasonal import seasonal_decompose
-from google.colab import files
-_______________________________
-# library yang saya gunakan di Dashboard:
-
-streamlit==1.43.2
-matplotlib==3.9.4
-numpy==2.0.1
-pandas==2.2.3
-seaborn==0.13.2
------------->
-import streamlit as st
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-from statsmodels.tsa.seasonal import seasonal_decompose

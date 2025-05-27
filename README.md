@@ -32,7 +32,7 @@ proyek ini saya kerjakan menggunakan repository streamlit
 - buka anaconda
 - jalankan environment
 - buka cmd
-- ketik streamlit run dashboard.py
-- dashboard.py adalah file dashboard.
+- ketik streamlit run ds.py
+- ds.py adalah file dashboard.
 
 
